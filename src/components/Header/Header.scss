@@ -1,0 +1,26 @@
+
+header{
+    padding: 1rem;
+    text-align: center;
+}
+nav{
+    display: flex;
+    flex-wrap: wrap;
+    gap: .5rem;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    margin-right: 1rem;
+    padding: .6rem;
+    border: none;
+    border-radius: 10px;
+    font-weight: bold;
+}
+h1{
+    color: rgb(203, 143, 65);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.btn:hover{
+    background-color:coral;
+}
